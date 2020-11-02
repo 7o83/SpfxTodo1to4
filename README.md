@@ -2,9 +2,7 @@
 
 ## Summary
 
-Qiita 投稿用の雑なサンプルです。このコードのについて、作成者や所属する組織は一切の責任を負いません。
-
-[picture of the solution in action, if possible]
+Qiita 投稿用の雑なサンプルです。このコードのご利用について、作成者や所属する組織は一切の責任を負いません。
 
 ## Used SharePoint Framework Version
 
